@@ -1,7 +1,6 @@
 # PizzaSlice
-Online Pizza shop for Korisnicki Interfejsi
+Online Pizza ordering site.
 
-![Logo](https://github.com/krstevskim/PizzaSlice/blob/master/logo.jpg)
 
 How To:
 
@@ -31,3 +30,6 @@ npm install
 7. Gradle should automatically be detected and run its build
 8. To Start Spring use intellij
 9. to run Angular do `npm start` in PizzaSlice-fe
+
+
+# Frontend still not completed 
